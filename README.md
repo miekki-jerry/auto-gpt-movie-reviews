@@ -1,7 +1,3 @@
-# AutoGPT with Langchain in Node.js
-
-This repository contains a Node.js boilerplate for getting started with AutoGPT using Langchain. The project demonstrates how to set up and use the experimental AutoGPT implementation in a Node.js environment. It provides a foundation for building applications that leverage the power of generative language models and external APIs to create dynamic and interactive content.
-
 ## Prerequisites
 
 - Node.js version 18 or higher
@@ -12,9 +8,7 @@ This repository contains a Node.js boilerplate for getting started with AutoGPT 
 
 1. Clone the repository:
    
-   git clone https://github.com/your-username/autogpt-langchain-nodejs.git
-   cd autogpt-langchain-nodejs
- 
+   git clone 
 
 2. Install dependencies:
  
@@ -42,6 +36,3 @@ The `index.js` script performs the following steps:
 - Creates an AutoGPT instance with the ChatOpenAI model, tools, and memory.
 - Demonstrates how to use AutoGPT to perform tasks and generate content.
 
-## Customization
-
-This boilerplate provides a starting point for your own projects. You can customize the code to create a wide range of applications, such as generating dynamic web content, creating interactive chatbots, and more. Feel free to experiment and explore the capabilities of AutoGPT and Langchain!
